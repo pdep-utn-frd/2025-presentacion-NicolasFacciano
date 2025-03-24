@@ -6,4 +6,4 @@ Aparte de Estudiar esta carrera estoy trabajando en una pasantia en Holcim Arg y
 Vengo de otra facultad, hice 3 años de ingenieria electronica en la UBA y me cambie en el 2023 a la UTN FRD.
 
 ## FOTO 
-![Mi foto](foto%20presentacion.jpg)
+![Mi foto](Foto-presentacion.jpg)
